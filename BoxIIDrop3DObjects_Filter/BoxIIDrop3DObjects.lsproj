@@ -1,0 +1,1001 @@
+{
+    "lens_id": "170270e4-d079-4a52-b1c7-bceb134cdc23",
+    "document_id": "-ZDmNkAa1nFSoj9MSnVZ",
+    "original_document_id": "UBeXSNEsedxgsJSOg3fY",
+    "version": "2",
+    "lastChanged": "1553809452021",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "Post_effect_lookup_table"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "billboard_multi_face"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "logo"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "logo_2"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "logo_bottom"
+                    ],
+                    [
+                        "Textures",
+                        "2D Textures",
+                        "vignette"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "Overlay Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Animations"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Materials",
+                        "Box"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Materials",
+                        "BoxLogo"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Materials",
+                        "BoxLogo_2"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Materials",
+                        "initialShadingGroup"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Meshes"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Meshes",
+                        "pCube1"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Textures",
+                        "closed_box_flat_Albedo"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Textures",
+                        "closed_box_flat_Albedov1"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Textures",
+                        "closed_box_flat_Albedov1_3"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Textures",
+                        "closed_box_flat_Normal"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "Textures",
+                        "closed_box_flat_Specular"
+                    ],
+                    [
+                        "closed_box_flat",
+                        "closed_box_flat"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1515437954945331:32055",
+                    "1515437955024915:32226",
+                    "1515437955065812:32344",
+                    "1515447226609287:53040",
+                    "1515449132383151:15314",
+                    "1515449132457471:15461",
+                    "1515449132489352:15580",
+                    "1515451110648530:20844",
+                    "1515455815627613:90623",
+                    "1515456190475596:102244",
+                    "1515456198509883:105525",
+                    "1515456871716258:120137",
+                    "1515457433034661:133508",
+                    "1515457433041807:133512",
+                    "1515457466938051:134855",
+                    "1515457534904396:141848",
+                    "1515457534965412:141923",
+                    "1515464433757800:32419",
+                    "1521511805504827:32161"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "76f995bab1c6a10cb8cf1e2bea7adb73",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "BoxIIDrop3DObjects",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1515456804637592:117173",
+                    "1515456823497523:117420",
+                    "1515456871722110:120141",
+                    "1515456897991503:121200",
+                    "1515457433047428:133516",
+                    "1515464433763075:32422",
+                    "1515464487246879:32511",
+                    "1515468347440900:16945",
+                    "1521656717027284:89815",
+                    "1521656726144568:92604",
+                    "1521689428684536:7773",
+                    "1521689431419606:10486"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1495032319834957:392",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1515438105511768:9107",
+                    "name": "\/Resources\/Resource54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1515438164605489:9974",
+                    "name": "\/Resources\/Resource55",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1515438164609890:9998",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1515438164617136:10034",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1515438318891573:10366",
+                    "name": "\/Resources\/Resource64",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1515451110646717:20835",
+                    "name": "sceneObject_111 Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1515461681360869:20188",
+                    "name": "\/Resources\/Resource309",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1521511542666184:7784",
+                    "name": "\/Resources\/Resource315.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1521511542713532:7796",
+                    "name": "\/Resources\/Resource281",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1521511542715008:7808",
+                    "name": "\/Resources\/Resource317.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1521511542744073:7832",
+                    "name": "\/Resources\/Resource319.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "320",
+                    "uid": "1521511542756928:7844",
+                    "name": "\/Resources\/Resource320",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "325",
+                    "uid": "1538073356029220:406540",
+                    "name": "\/Resources\/Resource325",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "328",
+                    "uid": "1538073356092764:406577",
+                    "name": "\/Resources\/Resource328.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "329",
+                    "uid": "1538073356121837:406586",
+                    "name": "\/Resources\/Resource329.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "330",
+                    "uid": "1538073356390188:406596",
+                    "name": "\/Resources\/Resource330",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "331",
+                    "uid": "1553719202921968:13910",
+                    "name": "\/Resources\/Resource331.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "332",
+                    "uid": "1553719202925510:13921",
+                    "name": "\/Resources\/Resource332",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "333",
+                    "uid": "1553719202961093:13943",
+                    "name": "\/Resources\/Resource333",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/source\/closed_box_flat.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "336",
+                    "uid": "1553719239543970:17578",
+                    "name": "\/Resources\/Resource336.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/textures\/closed_box_flat_Specular.tga.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "337",
+                    "uid": "1553719239780333:17590",
+                    "name": "\/Resources\/Resource337.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/textures\/closed_box_flat_Albedo.tga.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "338",
+                    "uid": "1553719239903529:17602",
+                    "name": "\/Resources\/Resource338.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/textures\/closed_box_flat_Normal.tga.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "339",
+                    "uid": "1553732359379789:21950",
+                    "name": "\/Resources\/Resource339.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/textures\/closed_box_flat_Albedov1.tga.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "340",
+                    "uid": "1553733510142222:22027",
+                    "name": "\/Resources\/Resource340.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/3DBoxModel\/textures\/closed_box_flat_Albedov1.tga.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "343",
+                    "uid": "1553799474469600:114500",
+                    "name": "\/Resources\/Resource343.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1553799620832729:122849",
+                    "name": "\/Resources\/Resource348.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/_AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "349",
+                    "uid": "1553800533791630:124234",
+                    "name": "\/Resources\/Resource349.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/_AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/BoxIIDrop3DObjects\/Public\/Textures\/2D Textures\/logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "365",
+                    "uid": "1553801957566950:156680",
+                    "name": "\/Resources\/Resource365",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "366",
+                    "uid": "1553802089385848:156717",
+                    "name": "\/Resources\/Resource366.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/_AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/BoxIIDrop3DObjects\/Public\/Textures\/2D Textures\/logo_bottom.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1495032273418655:313",
+                "1": "1515448846759604:9356",
+                "2": "1515449132383005:15306",
+                "3": "1515449132383099:15310",
+                "4": "1515451110518990:20746",
+                "5": "1515464433757800:32419",
+                "6": "1521511542662588:7754",
+                "7": "1521511542662605:7757",
+                "8": "1521511542662640:7764",
+                "9": "1521511805504827:32161",
+                "10": "1521511805504843:32164",
+                "11": "1521689428684536:7773",
+                "12": "1521689431419606:10486",
+                "13": "1553719202962095:13958",
+                "14": "1553719202963220:13966",
+                "15": "1553799474440615:114494",
+                "16": "1553801815795251:155412"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "IdleAnim",
+                                "resourceId": "54",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": [
+                            {
+                                "name": "2D Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "billboard_multi_face",
+                                        "resourceId": "315",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "vignette",
+                                        "resourceId": "317",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Post_effect_lookup_table",
+                                        "resourceId": "319",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "logo",
+                                        "resourceId": "348",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "logo_2",
+                                        "resourceId": "349",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "logo_bottom",
+                                        "resourceId": "366",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Overlay Camera Output",
+                                "resourceId": "279",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder Mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Occluder",
+                                "resourceId": "309",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "closed_box_flat",
+                        "isImportedRoot": "true",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "closed_box_flat_Specular",
+                                        "resourceId": "336",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "closed_box_flat_Albedo",
+                                        "resourceId": "337",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "closed_box_flat_Normal",
+                                        "resourceId": "338",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "closed_box_flat_Albedov1",
+                                        "resourceId": "339",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "closed_box_flat_Albedov1_3",
+                                        "resourceId": "340",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Box",
+                                        "resourceId": "55",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "BoxLogo",
+                                        "resourceId": "64",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "initialShadingGroup",
+                                        "resourceId": "332",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "BoxLogo_2",
+                                        "resourceId": "365",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "isReadOnly": "true",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "pCube1",
+                                        "resourceId": "331",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "isReadOnly": "true",
+                                "groups": "",
+                                "resources": ""
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "closed_box_flat",
+                                "resourceId": "333",
+                                "extension": ""
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Plane",
+                        "resourceId": "343",
+                        "extension": "mesh"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/Occluder Mesh.mesh"
+                },
+                {
+                    "id": "54",
+                    "path": "Scripts\/IdleAnim.js"
+                },
+                {
+                    "id": "57",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "315",
+                    "path": "Textures\/2D Textures\/billboard_multi_face.png"
+                },
+                {
+                    "id": "317",
+                    "path": "Textures\/2D Textures\/vignette.png"
+                },
+                {
+                    "id": "319",
+                    "path": "Textures\/2D Textures\/Post_effect_lookup_table.png"
+                },
+                {
+                    "id": "331",
+                    "path": "closed_box_flat\/Meshes\/pCube1.mesh"
+                },
+                {
+                    "id": "336",
+                    "path": "closed_box_flat\/Textures\/closed_box_flat_Specular.png"
+                },
+                {
+                    "id": "337",
+                    "path": "closed_box_flat\/Textures\/closed_box_flat_Albedo.png"
+                },
+                {
+                    "id": "338",
+                    "path": "closed_box_flat\/Textures\/closed_box_flat_Normal.png"
+                },
+                {
+                    "id": "339",
+                    "path": "closed_box_flat\/Textures\/closed_box_flat_Albedov1.png"
+                },
+                {
+                    "id": "340",
+                    "path": "closed_box_flat\/Textures\/closed_box_flat_Albedov1_3.png"
+                },
+                {
+                    "id": "343",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "348",
+                    "path": "Textures\/2D Textures\/logo.png"
+                },
+                {
+                    "id": "349",
+                    "path": "Textures\/2D Textures\/logo_2.png"
+                },
+                {
+                    "id": "366",
+                    "path": "Textures\/2D Textures\/logo_bottom.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1515438164605489:9974",
+                        "path_list": [
+                            "closed_box_flat",
+                            "Materials",
+                            "Pot"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1553719202962095:13958",
+                        "v": {
+                            "prefab": "1553719202961093:13943",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1553719202961038:13935",
+                                    "v": "1553719202962095:13958"
+                                },
+                                {
+                                    "k": "1553719202961051:13938",
+                                    "v": "1553719202963220:13966"
+                                },
+                                {
+                                    "k": "1553719202961055:13941",
+                                    "v": "1553719202964499:13970"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1553719202961093:13943",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1553719202961038:13935"
+                        },
+                        {
+                            "k": [
+                                "pCube1"
+                            ],
+                            "v": "1553719202961051:13938"
+                        },
+                        {
+                            "k": [
+                                "pCube1",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1553719202961055:13941"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

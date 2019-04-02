@@ -1,0 +1,687 @@
+{
+    "lens_id": "",
+    "document_id": "s4oy86eSmx2JcZm70JxG",
+    "original_document_id": "mBL_OQfxeQXRlSjfPhIF",
+    "version": "2",
+    "lastChanged": "1553786986515",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Logo_Example"
+                    ],
+                    [
+                        "Opacity Textures"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "cheeks"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "eye_1"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "eye_2"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "eye_3"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "eye_4"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "forehead_1"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "forehead_2"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_no_eye"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_no_eye_lips"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_no_lips"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "lips"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "nose"
+                    ],
+                    [
+                        "Sample_WholeHead"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "example_texture [REMOVE_ME]"
+                    ],
+                    [
+                        "logo"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1520545178554147:10965",
+                    "1521580009588546:106627"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "ad2d34e9fa725ebbd960cf9bb86e4fc6",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "BoxIIDropMask",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1520044577083088:73255",
+                    "1520044579934335:73494",
+                    "1521484971179134:4034",
+                    "1521486874402878:5762",
+                    "1521486967333657:6687",
+                    "1521657310584077:135534",
+                    "1521689674399905:1995",
+                    "1522778490082055:233296"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1521580009593647:106646",
+                    "name": "\/Resources\/Resource48.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1521580009601389:106658",
+                    "name": "\/Resources\/Resource49.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1522712075042587:41825",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1522778490163832:233317",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1522778594944184:233736",
+                    "name": "\/Resources\/Resource61.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1522778594983669:233749",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1522778595042667:233762",
+                    "name": "\/Resources\/Resource63.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1522778595101979:233775",
+                    "name": "\/Resources\/Resource64.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1522778595149352:233788",
+                    "name": "\/Resources\/Resource65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1522778595195859:233801",
+                    "name": "\/Resources\/Resource66.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1522778595268268:233814",
+                    "name": "\/Resources\/Resource67.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1522778595323327:233827",
+                    "name": "\/Resources\/Resource68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1522778595399038:233840",
+                    "name": "\/Resources\/Resource69.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1522778595470142:233853",
+                    "name": "\/Resources\/Resource70.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1522778595545934:233866",
+                    "name": "\/Resources\/Resource71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1522778595612794:233879",
+                    "name": "\/Resources\/Resource72.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1522778595679538:233892",
+                    "name": "\/Resources\/Resource73.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1538073249641620:380979",
+                    "name": "\/Resources\/Resource74",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1538073249728009:381016",
+                    "name": "\/Resources\/Resource77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1538073249753298:381025",
+                    "name": "\/Resources\/Resource78.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1553715549033640:2373",
+                    "name": "\/Resources\/Resource79.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/Sample_WholeHead.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1553715601404519:2894",
+                    "name": "\/Resources\/Resource80.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/Logo_Example.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1553715671618209:9166",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "\/Users\/kiumingwong\/Downloads\/AlphaR\/2019\/Clients\/Fiverr\/adnanshah569_sc_BoxIIDrop\/logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1520545178554147:10965",
+                "1": "1521580009588546:106627",
+                "2": "1521580009588566:106630",
+                "3": "1521580009588611:106636",
+                "4": "1521689674399905:1995",
+                "5": "1522712074942519:41791",
+                "6": "1522778490082055:233296"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "48",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "49",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opacity Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "cheeks",
+                                "resourceId": "61",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_1",
+                                "resourceId": "62",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_2",
+                                "resourceId": "63",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_3",
+                                "resourceId": "64",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_4",
+                                "resourceId": "65",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "forehead_1",
+                                "resourceId": "66",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "forehead_2",
+                                "resourceId": "67",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "full_no_eye_lips",
+                                "resourceId": "68",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "full_no_eye",
+                                "resourceId": "69",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "full_no_lips",
+                                "resourceId": "70",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "full",
+                                "resourceId": "71",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "lips",
+                                "resourceId": "72",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "nose",
+                                "resourceId": "73",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "example_texture [REMOVE_ME]",
+                        "resourceId": "57",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Sample_WholeHead",
+                        "resourceId": "79",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Logo_Example",
+                        "resourceId": "80",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "logo",
+                        "resourceId": "81",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "48",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "49",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "57",
+                    "path": "example_texture [REMOVE_ME].png"
+                },
+                {
+                    "id": "61",
+                    "path": "Opacity Textures\/cheeks.png"
+                },
+                {
+                    "id": "62",
+                    "path": "Opacity Textures\/eye_1.png"
+                },
+                {
+                    "id": "63",
+                    "path": "Opacity Textures\/eye_2.png"
+                },
+                {
+                    "id": "64",
+                    "path": "Opacity Textures\/eye_3.png"
+                },
+                {
+                    "id": "65",
+                    "path": "Opacity Textures\/eye_4.png"
+                },
+                {
+                    "id": "66",
+                    "path": "Opacity Textures\/forehead_1.png"
+                },
+                {
+                    "id": "67",
+                    "path": "Opacity Textures\/forehead_2.png"
+                },
+                {
+                    "id": "68",
+                    "path": "Opacity Textures\/full_no_eye_lips.png"
+                },
+                {
+                    "id": "69",
+                    "path": "Opacity Textures\/full_no_eye.png"
+                },
+                {
+                    "id": "70",
+                    "path": "Opacity Textures\/full_no_lips.png"
+                },
+                {
+                    "id": "71",
+                    "path": "Opacity Textures\/full.png"
+                },
+                {
+                    "id": "72",
+                    "path": "Opacity Textures\/lips.png"
+                },
+                {
+                    "id": "73",
+                    "path": "Opacity Textures\/nose.png"
+                },
+                {
+                    "id": "79",
+                    "path": "Sample_WholeHead.png"
+                },
+                {
+                    "id": "80",
+                    "path": "Logo_Example.png"
+                },
+                {
+                    "id": "81",
+                    "path": "logo.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1522778490082055:233296"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
